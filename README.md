@@ -12,7 +12,7 @@ The dataset selected for this project presents [brief description of dataset], a
 ## Project Structure
 - `DL and ML model comparison -  Customer Feedback rating analysis.ipynb`: The main Jupyter notebook containing the entire analysis, model building, evaluation, and conclusions.
 - `renttherunway_final_data.csv`: The dataset used for this analysis.
-- `glove.6B.100d.txt`: Dependencies required for running the notebook.
+- `glove.6B.100d.txt`: to be downloaded from online Dependencies required for running the notebook.
 - `Report.pdf`: Report elaborating the code and conclusion
 
 ## Features
